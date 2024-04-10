@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\examen final\registro\bin\Debug\registro.exe.config
+C:\Users\ACER\Desktop\examen final\registro\bin\Debug\registro.exe
+C:\Users\ACER\Desktop\examen final\registro\bin\Debug\registro.pdb
+C:\Users\ACER\Desktop\examen final\registro\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\examen final\registro\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\examen final\registro\obj\Debug\registro.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\examen final\registro\obj\Debug\registro.Form1.resources
+C:\Users\ACER\Desktop\examen final\registro\obj\Debug\registro.Properties.Resources.resources
+C:\Users\ACER\Desktop\examen final\registro\obj\Debug\registro.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\examen final\registro\obj\Debug\registro.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\examen final\registro\obj\Debug\registro.csproj.Up2Date
+C:\Users\ACER\Desktop\examen final\registro\obj\Debug\registro.exe
+C:\Users\ACER\Desktop\examen final\registro\obj\Debug\registro.pdb

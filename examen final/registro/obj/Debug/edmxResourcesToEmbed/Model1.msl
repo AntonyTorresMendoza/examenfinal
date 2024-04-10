@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBEmpresaModelStoreContainer" CdmEntityContainer="DBEmpresaEntities">
+    <EntitySetMapping Name="Trabajadores">
+      <EntityTypeMapping TypeName="DBEmpresaModel.Trabajadores">
+        <MappingFragment StoreEntitySet="Trabajadores">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellidos" ColumnName="Apellidos" />
+          <ScalarProperty Name="SueldoBruto" ColumnName="SueldoBruto" />
+          <ScalarProperty Name="Categoria" ColumnName="Categoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="CalcularSueldoNeto" FunctionName="DBEmpresaModel.Store.CalcularSueldoNeto" />
+  </EntityContainerMapping>
+</Mapping>
